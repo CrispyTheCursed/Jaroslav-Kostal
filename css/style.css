@@ -1,0 +1,23 @@
+.text{
+    color: red;
+    background-color: yellow;
+}
+#center{
+    front-size: 20px;
+
+}
+span{
+    text-align: center ; 
+}
+
+.content div div span{
+    color: #0e90d2;
+}
+
+body div span{
+    color:crimson;
+}
+body div div span{
+    color: darkturquoise;
+}
+ 
